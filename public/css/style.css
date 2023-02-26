@@ -1,0 +1,16 @@
+body {
+    background-color: #d3d7da;
+}
+
+#formulario-pergunta {
+    margin-top: 5vh;
+}
+
+#container-logo {
+    margin-right: 5em;
+}
+
+#option-guia {
+    color: #d3d7da;
+    margin: 0em 2em;
+}
